@@ -1,6 +1,6 @@
 # Stew GitHub Organization
 
-![stew_hero_image](https://github.com/RobloxStew/.github/assets/placeholder/stew-hero.png)
+![stew_hero_image](https://github.com/RobloxStew/.github/assets/stew-hero.png)
 
 This is the Stew GitHub Organization, where we build open-source tools and services for creating Roblox experiences. Help us bring the Studio experience to more platforms by submitting suggestions, fixes, ideas, and contributions.
 
